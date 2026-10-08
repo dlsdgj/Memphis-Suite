@@ -29,14 +29,14 @@
 
 ## 切换方案
 
-安装 [SwiftSnippets](https://github.com/dlsdgj/Obsidian-swift-snippets) 插件后，在编辑区 **Shift + 滚轮** 即可弹出方案列表切换：
+安装 [SwiftSwitch](https://github.com/dlsdgj/Obsidian-swift-snippets) 插件后，在编辑区 **Shift + 滚轮** 即可弹出方案列表切换：
 
 - 配色变量 `--m-*` 即时切换
 - 自定义图标（20+ SVG）同步换色
 - 代码高亮配色同步切换
 - 页面背景装饰图案同步切换
 
-> Install [SwiftSnippets](https://github.com/dlsdgj/Obsidian-swift-snippets), then **Shift + scroll** in the editor to cycle schemes. Colors, icons, code highlighting, and background decorations all switch together.
+> Install [SwiftSwitch](https://github.com/dlsdgj/Obsidian-swift-snippets), then **Shift + scroll** in the editor to cycle schemes. Colors, icons, code highlighting, and background decorations all switch together.
 
 ## 安装
 
