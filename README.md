@@ -4,7 +4,7 @@
 
 将 6 个 Memphis 变体主题合并为一个，通过 `@settings` 配色方案切换：配色、图标、代码高亮、装饰图案四维同步切换。
 
-![screenshot](background.png)
+![screenshot](screenshot.png)
 
 ## 配色方案
 
